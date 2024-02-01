@@ -163,52 +163,29 @@ http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/1937.ts
 
 ==============================================LIGA ITALIA=======================================================
 #EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="⚽️LIGA ITALIA⚽️",SERIE A 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="⚽️LIGA ITALIA⚽️",SERIE A 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="⚽️LIGA ITALIA⚽️",SERIE A 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="⚽️LIGA ITALIA⚽️",SERIE A 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4126c14ea8e841bb91745cd9323a1244:f841392e924641e73079b388a096903e
-https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv265&offset=1&nodelay=1
 
 ==============================================LIGA PRANCIS=================================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="⚽️LIGA PRANCIS⚽️" ,LIGUE 1 A
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-056/stream.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="⚽️LIGA PRANCIS⚽️" ,LIGUE 1 B
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-032/stream.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="⚽️LIGA PRANCIS⚽️" ,LIGUE 1 C
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd
 
 ====================================================LIGA JERMAN=================================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="⚽️LIGA JERMAN⚽️" , BUNDES LIGA
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-055/stream.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="⚽️LIGA JERMAN⚽️" , BUNDES LIGA A
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-057/stream.mpd
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="⚽️LIGA JERMAN⚽️", BUNDES LIGA B
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
- 
 
 
 ========================================LIGA CHAMPION EROPA==================================================
@@ -232,7 +209,7 @@ https://srtv.my.id/vd/play.m3u8?id=6686&type=hls
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6686&type=drm
-https://srtv.my.id/vd/play.mpd?id=6686&type=dash
+#https://srtv.my.id/vd/play.mpd?id=6686&type=dash
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽️CHAMPION LEAGUE⚽️",Champ TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -240,13 +217,13 @@ https://srtv.my.id/vd/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6786&type=drm
-https://srtv.my.id/vd/play.mpd?id=6786&type=dashDIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6685&type=drm 
+
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽️CHAMPION LEAGUE⚽️",DIGISPORT
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=803_&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽️CHAMPION LEAGUE⚽️",SUPER SPORT
-http://8.218.71.149:8880/live/bZXLO5K008--eWLG6lFB2rycmIge90Y0f5J6EQiz_BG4UqFpy0mr8Ic4EIf7Fp1ojlH3VngjAd0FkNcCunWREr6ZW3qA-P87TaqTfEroDtKHISRgHw4O5MFhZnmOmZQwztmYo0aK4gaqymIJn3mMj6I3KdFgPQU3pcGnetzRTwF1zmUxMN8LWNYgWPv5I9bqfSsW5WJeO3RwCziObNYGX8C9VVHnPFW7lyloxiX6WWZgxV6t8EYAHvziMrN_FixNABWbfImlvaaxCQoTYgol7r22OV7QpdBf1_o-LGNlwytcPqnDCqanT_CF-XQug5vFKQIOUEG_ORJYPP6QjSQcKg.m3u8?u=1705630354
+
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽️CHAMPION LEAGUE⚽️",ARENA PREMIUM
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=801855&extension=ts&play_token=5iYcwPJUh5
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽️CHAMPION LEAGUE⚽️",K+ SPORT 1
@@ -255,10 +232,12 @@ http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/755
 http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/754
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽️CHAMPION LEAGUE⚽️",SONY TEN 1
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽️CHAMPION LEAGUE⚽️",CHAMPION 1
-http://8.218.71.149:8880/live/bZXLO5K008--eWLG6lFB2rycmIge90Y0f5J6EQiz_BG4UqFpy0mr8Ic4EIf7Fp1ojlH3VngjAd0FkNcCunWREr6ZW3qA-P87TaqTfEroDtKHISRgHw4O5MFhZnmOmZQwztmYo0aK4gaqymIJn3mMj6I3KdFgPQU3pcGnetzRTwF1zmUxMN8LWNYgWPv5I9bqfSsW5WJeO3RwCziObNYGX8C9VVHnPFW7lyloxiX6WWZgxV6t8EYAHvziMrN_FixNABWbfImlvaaxCQoTYgol7r22OV7QpdBf1_o-LGNlwytcPqnDCqanT_CF-XQug5vFKQIOUEG_ORJYPP6QjSQcKg.m3u8?u=1705630354
+#http://8.218.71.149:8880/live/bZXLO5K008--eWLG6lFB2rycmIge90Y0f5J6EQiz_BG4UqFpy0mr8Ic4EIf7Fp1ojlH3VngjAd0FkNcCunWREr6ZW3qA-P87TaqTfEroDtKHISRgHw4O5MFhZnmOmZQwztmYo0aK4gaqymIJn3mMj6I3KdFgPQU3pcGnetzRTwF1zmUxMN8LWNYgWPv5I9bqfSsW5WJeO3RwCziObNYGX8C9VVHnPFW7lyloxiX6WWZgxV6t8EYAHvziMrN_FixNABWbfImlvaaxCQoTYgol7r22OV7QpdBf1_o-LGNlwytcPqnDCqanT_CF-XQug5vFKQIOUEG_ORJYPP6QjSQcKg.m3u8?u=1705630354
+
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽️CHAMPION LEAGUE⚽️", CHAMPION 2
-http://8.218.71.149:8880/live/bZXLO5K008--eWLG6lFB2rycmIge90Y0f5J6EQiz_BG4UqFpy0mr8Ic4EIf7Fp1ojlH3VngjAd0FkNcCunWREizczTq8Lh5-zj5HkC3vlhQaVnLKamz9PqtzmrkrRlvKNgOR7R6HKLZKCySVyPX7V0m_0KKCDWN1twY30VScP_4h-Y81ImlwHV33PhoRHypu3E0biL89Xr3G2IkwnkbpMl9ZUO8ymkmaxfxhKv9SG4LzLOiVXyQ8lHznqVpbLEoGDwblyCHtX_K-Y9b4wsuLGR3LtzMi11hzeNNRW3Aez8wDfuW33gWiTi-r9D_Kqxm__I7Wa5txFcyjXq7Bw-dw3Q.m3u8?u=1705630354
+#http://8.218.71.149:8880/live/bZXLO5K008--eWLG6lFB2rycmIge90Y0f5J6EQiz_BG4UqFpy0mr8Ic4EIf7Fp1ojlH3VngjAd0FkNcCunWREizczTq8Lh5-zj5HkC3vlhQaVnLKamz9PqtzmrkrRlvKNgOR7R6HKLZKCySVyPX7V0m_0KKCDWN1twY30VScP_4h-Y81ImlwHV33PhoRHypu3E0biL89Xr3G2IkwnkbpMl9ZUO8ymkmaxfxhKv9SG4LzLOiVXyQ8lHznqVpbLEoGDwblyCHtX_K-Y9b4wsuLGR3LtzMi11hzeNNRW3Aez8wDfuW33gWiTi-r9D_Kqxm__I7Wa5txFcyjXq7Bw-dw3Q.m3u8?u=1705630354
 
 
 =========================================SPORTS=====================================================
@@ -915,14 +894,7 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38424_&extens
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38425_&extension=ts 
 
 ======================================================ASTRO SPORTS===================================================
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY| ASTRO GO Live Event 1 FHD" tvg-logo="https://i.imgur.com/8in5sLp.png" group-title="🇲🇾ASTRO SPORTS🇲🇾", ASTRO GO Live Event 1 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/379997.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY| ASTRO GO Live Event 2 FHD" tvg-logo="https://i.imgur.com/8in5sLp.png" group-title="🇲🇾ASTRO SPORTS🇲🇾", ASTRO GO Live Event 2 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/514707.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY| ASTRO GO Live Event 3 FHD" tvg-logo="https://i.imgur.com/8in5sLp.png" group-title="🇲🇾ASTRO SPORTS🇲🇾", ASTRO GO Live Event 3 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/514708.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY| ASTRO GO Live Event 4 FHD" tvg-logo="https://i.imgur.com/8in5sLp.png" group-title="🇲🇾ASTRO SPORTS🇲🇾", ASTRO GO Live Event 4 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/514709.m3u8  
+
 #EXTINF:-1 group-title="🇲🇾ASTRO SPORTS🇲🇾",tvg-logo="https://lo1.in/MALAY/astrossp.png" ,MY| ASTRO SUPERSPORT UHD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/7841  
 #EXTINF:-1 group-title="🇲🇾ASTRO SPORTS🇲🇾", tvg-logo="https://lo1.in/MALAY/astroar.png" tvg-id="astroarena.my" ,MY| ASTRO ARENA HD
@@ -930,24 +902,24 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/191853
 #EXTINF:-1 group-title="🇲🇾ASTRO SPORTS🇲🇾", tvg-logo="https://lo1.in/MALAY/astroarn2.png" ,MY| ASTRO ARENA 2 HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/185822
 #EXTINF:-1 group-title="🇲🇾ASTRO SPORTS🇲🇾", tvg-logo="https://lo1.in/MALAY/astroar.png" ,MY| ASTRO ARENA BOLA HD
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1043
+
 #EXTINF:-1 group-title="🇲🇾ASTRO SPORTS🇲🇾",tvg-logo="https://lo1.in/MALAY/astroar.png" ,MY| ASTRO ARENA BOLA 2 HD
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1044
+
 #EXTINF:-1 tvg-id="" tvg-name="Arena Bola 3 (Live Only)" tvg-logo="https://i.ibb.co/jTYPgJh/1679052247679.png" group-title="🇲🇾ASTRO SPORTS🇲🇾",Arena Bola 3 (Live Only)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1055
+
 #EXTINF:-1 tvg-id="" tvg-name="Arena Bola 4 (Live Only)" tvg-logo="https://i.ibb.co/C65N4rM/1679052282854.png" group-title="🇲🇾ASTRO SPORTS🇲🇾",Arena Bola 4 (Live Only)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1056  
+  
 #EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="🇲🇾ASTRO SPORTS🇲🇾",Super Sport 1
 http://mytv-extra.com:80/t12mgxyb335/9832948789/6590
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="https://lo1.in/MALAY/astroassp2.png" group-title="🇲🇾ASTRO SPORTS🇲🇾",Super Sport 2
-http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/157556
+
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="https://lo1.in/MALAY/astroassp3.png" group-title="🇲🇾ASTRO SPORTS🇲🇾",Super Sport 3
-http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/157557
+
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="https://lo1.in/MALAY/astroassp4.png" group-title="🇲🇾ASTRO SPORTS🇲🇾",Super Sport 4
 http://mytv-extra.com:80/t12mgxyb335/9832948789/6592
 #EXTINF:-1 tvg-id="" tvg-name="MY022:Super Sport 5" tvg-logo="https://lo1.in/MALAY/astroassp5.png" group-title="🇲🇾ASTRO SPORTS🇲🇾",Super Sport 5
-http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/287792
+
 #EXTINF:-1 tvg-id="" tvg-name="MY040:ASTRO ASSP HD" tvg-logo="" group-title="🇲🇾ASTRO SPORTS🇲🇾",ASTRO ASSP HD
 
 #EXTINF:-1 tvg-id="" tvg-name="MY041:ASTRO ASSP2 HD" tvg-logo="" group-title="🇲🇾ASTRO SPORTS🇲🇾",ASTRO ASSP2 HD
